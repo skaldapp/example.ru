@@ -1,10 +1,10 @@
-# VueBro Example - Quick Start Guide
+# Skald Example - Quick Start Guide
 
-This is an example project showcasing the capabilities of VueBro - a Vue.js-powered static site generator. The project demonstrates how to create a multi-page site with Vue components and modern web technologies.
+This is an example project showcasing the capabilities of skald - a Vue.js-powered static site generator. The project demonstrates how to create a multi-page site with Vue components and modern web technologies.
 
 ## Overview
 
-VueBro is a static site generator built on Vue.js that allows you to create fast, SEO-friendly websites. This example demonstrates:
+Skald is a static site generator built on Vue.js that allows you to create fast, SEO-friendly websites. This example demonstrates:
 - Multi-page site structure with Vue.js components
 - JSON-based content configuration
 - Modern web technologies (ESM imports, import maps)
@@ -74,8 +74,8 @@ The site's content and structure are defined in `index.json`:
 
 ## Contributing
 
-For more information about VueBro or to contribute to the project, visit the main VueBro repository.
+For more information about skald or to contribute to the project, visit the main skald repository.
 
 ## License
 
-This example is part of the VueBro project. Please refer to the main repository for licensing information.
+This example is part of the skald project. Please refer to the main repository for licensing information.

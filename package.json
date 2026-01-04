@@ -1,7 +1,7 @@
 {
-  "name": "@vuebro/example",
-  "description": "VueBro example project: A Vue.js-powered static site generator showcasing multi-page sites with JSON configuration, ESM imports, and SEO optimization.",
-  "homepage": "https://vuebro.github.io/example.ru",
+  "name": "@skaldapp/example",
+  "description": "Skald example project: A Vue.js-powered static site generator showcasing multi-page sites with JSON configuration, ESM imports, and SEO optimization.",
+  "homepage": "https://skaldapp.github.io/example.ru",
   "keywords": [
     "javascript",
     "typescript",
