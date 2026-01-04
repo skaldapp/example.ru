@@ -13,7 +13,7 @@ Skald is a static site generator built on Vue.js that allows you to create fast,
 
 ## Technologies Used
 
-- **Vue.js** 3.5.22 (ESM browser build)
+- **Vue.js** 3.5.26 (ESM browser build)
 - **Vue Router** 4.6.3 for navigation
 - **Element Plus** UI library
 - **UnoCSS** for styling
